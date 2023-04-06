@@ -1,4 +1,4 @@
-<p align="left">Hello World!!</p>
+<p align="left">Hi! I'm Yavuz. I'm a front-end web developer</p>
 
 ###
 
