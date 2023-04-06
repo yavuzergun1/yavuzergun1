@@ -1,4 +1,4 @@
-<p align="center">Yavuz Ergun <br>Front-End Web Developer / Freelancer<br>Welcome to my Github Profile!</p>
+<p align="center">Welcome to my Github Profile!</p>
 
 ###
 
